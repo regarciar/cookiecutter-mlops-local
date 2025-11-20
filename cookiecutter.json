@@ -1,1 +1,5 @@
-'{ "project_name": "mi_proyecto", "author": "Analitica" }' 
+{
+  "project_name": "mi_proyecto",
+  "author": "Analitica",
+  "description": "Proyecto de analítica y modelos predictivos con MLOps local"
+}
